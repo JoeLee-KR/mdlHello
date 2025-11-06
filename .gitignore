@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 _depot/LangChain_LLM_AI_Basic
+.DS_Store
 
 # C extensions
 *.so
